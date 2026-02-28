@@ -1,1 +1,2 @@
 This is a free learning course on Git and GitHub.
+From today onwards we are using our git in our project to understand the industry level exposure
