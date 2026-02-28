@@ -1,1 +1,2 @@
 Hello World, I am Ajay Malar learning Git !
+This is to understand command git diff
