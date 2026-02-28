@@ -1,2 +1,0 @@
-username="ajay"
-password="Ajay @2005"
